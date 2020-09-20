@@ -24,5 +24,7 @@ The results for score by spending ranges are not affected by the grade 9 scores 
 ### School Size
 The size by score analysis is also not affected by the change in removing the grade 9 scores for Thomas High School as shown:
 
+<img width="779" alt="Screen Shot 2020-09-20 at 12 34 44 PM" src="https://user-images.githubusercontent.com/69806770/93716423-bebf3400-fb3d-11ea-98f3-6aba9261f91e.png">
 
+### School Type
 
