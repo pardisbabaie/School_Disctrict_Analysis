@@ -27,4 +27,6 @@ The size by score analysis is also not affected by the change in removing the gr
 <img width="779" alt="Screen Shot 2020-09-20 at 12 34 44 PM" src="https://user-images.githubusercontent.com/69806770/93716423-bebf3400-fb3d-11ea-98f3-6aba9261f91e.png">
 
 ### School Type
+The scores by school type are also not affected as Thomas High School is a charter school and the school type analysis before the grade 9 grades were removed showed that the charter school overall scores were higher and with the change in removing grade 9 scores the scores are higher for Thomas High school and the charter school scores are still higher as per below:
+
 
