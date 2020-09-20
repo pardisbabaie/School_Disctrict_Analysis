@@ -10,3 +10,4 @@ When looking at the school summary with the grade 9 Thomas High School test resu
 <img width="784" alt="Screen Shot 2020-09-19 at 8 09 07 PM" src="https://user-images.githubusercontent.com/69806770/93691503-15802b80-fab4-11ea-889c-292d4be4caf8.png">
 
 #### After Grade 9 test scores removed
+<img width="590" alt="Screen Shot 2020-09-19 at 8 11 44 PM" src="https://user-images.githubusercontent.com/69806770/93691529-71e34b00-fab4-11ea-9506-656a7edf6705.png">
