@@ -11,3 +11,5 @@ When looking at the school summary with the grade 9 Thomas High School test resu
 
 #### After Grade 9 test scores removed
 <img width="590" alt="Screen Shot 2020-09-19 at 8 11 44 PM" src="https://user-images.githubusercontent.com/69806770/93691529-71e34b00-fab4-11ea-9506-656a7edf6705.png">
+### Thomas High School Performance 
+The performance of Thomas High School relative to other schools significantly increases by removing the grade 9 test scores. By removing the grade 9 math and reading scores, Thomas High School gets ranked the #2 school based on overall passing percentage.
